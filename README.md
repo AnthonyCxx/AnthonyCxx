@@ -9,4 +9,4 @@ my knowledge of C++ and other low-level languages. I have an interest in low-lev
 All my projects are made available to the public through the BSD 3-Clause License. 
 If you have any questions about my projects, please contact me at ecox@highpoint.edu
 
-I reserve my private email, but am willing to give it out if contacted through my school email first. 
+I reserve my private contact information, but am willing to give it out if contacted through my school email first. 
