@@ -1,6 +1,6 @@
-Hi,
+# Introduction
 
-I'm Ethan Cox and I'm currently a student at High Point University studying computer science with a concentration in cybersecurity. I am also minoring in Chinese (Mandarin).
+Hi, I'm Ethan Cox and I'm currently a student at High Point University studying computer science with a concentration in cybersecurity. I am also minoring in Chinese (Mandarin).
 
 # Cybersecurity and Programming
 I primarily program in C++, however I also know Python and do a bit of Bash, C, and x86 Assembly (AT&T Style). I enjoy programming a great deal and I spent a lot of time on
