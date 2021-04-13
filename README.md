@@ -11,5 +11,5 @@ Right now, I'm working on a text adventure game that runs on the Linux terminal 
 All my projects are made available to the public through the BSD 3-Clause License. 
 If you have any questions about my projects, please contact me at ecox@highpoint.edu
 
-You can find my LinkedIn [here](https://www.linkedin.com/in/ethan-cox-3b78511b6/)
+You can find my LinkedIn [here](https://www.linkedin.com/in/ethan-cox-3b78511b6/) <br />
 I reserve my private contact information, but am willing to give it out if contacted through my school email first. 
