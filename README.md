@@ -4,7 +4,7 @@ Hi, I'm Ethan Cox and I'm an honors student at student at High Point University 
 in Chinese (Mandarin).
 
 # Cybersecurity and Programming
-I primarily program in C++, however I also know Python and do a bit of Bash, C, and x86 Assembly (AT&T Style). I enjoy programming a great deal and I spent a lot of time on
+I primarily program in C++, however I also know Python and do a bit of Bash and C. I enjoy programming a great deal and I spent a lot of time on
 deepening my knowledge of C++ and other low-level languages. I have an interest in low-level programming and hacking, specifically IoT and application security/exploitation.<br />
 
 Right now, I'm working on a text adventure game that runs on the Linux terminal - click [this link](https://github.com/EthanC2/CPP-Text-Adventure-Game) for my progress.
