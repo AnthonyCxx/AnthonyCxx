@@ -7,8 +7,6 @@ in Chinese (Mandarin).
 I primarily program in C++, however I also know Python and do a bit of Bash and C. I enjoy programming a great deal and I spent a lot of time on
 deepening my knowledge of C++ and other low-level languages. I have an interest in low-level programming and hacking, specifically IoT and application security/exploitation.<br />
 
-Right now, I'm working on a text adventure game that runs on the Linux terminal - click [this link](https://github.com/EthanC2/CPP-Text-Adventure-Game) for my progress.
-
 # Project Details and Contact
 All my projects are made available to the public through the BSD 3-Clause License. 
 If you have any questions about my projects, please contact me at ecox@highpoint.edu
