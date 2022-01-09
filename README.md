@@ -1,19 +1,19 @@
 # About Me
 Hi, I'm Ethan Cox and I'm an honors student at student at High Point University (sophomore) studying computer science with a concentration in cybersecurity.
 
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EthanC2&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats) <br />
+
 ⚓ Languages: C++, .NET (C# and Powershell), Python 3 <br />
 🔥Current Project: Password Cracker (C++/C#)
 
 
 # Profile Statistics 
-
 <!-- 
 | GitHub Stats | Top Languages |
 | ------------ | ------------- | 
 | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EthanC2&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EthanC2)](https://github.com/anuraghazra/github-readme-stats) |
 -->
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EthanC2&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats) <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EthanC2)](https://github.com/anuraghazra/github-readme-stats)
 
