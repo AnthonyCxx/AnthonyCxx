@@ -21,3 +21,5 @@ If you have any questions about my projects, please contact me at ecox\[at\]high
 
 You can find my LinkedIn [here](https://www.linkedin.com/in/ethan-cox-3b78511b6/). <br />
 -->
+
+![Visitor Count](https://profile-counter.glitch.me/EthanC2/count.svg)
