@@ -1,6 +1,7 @@
 # Profile for Ethan Cox
 👋 Name: Ethan Cox <br />
 🏫 University: High Point University <br />
+📜 Major/Minor: Computer Science (cybersecurity concentration) and Mandarin Chinese
 ⚓ Languages: C++, .NET (C# and Powershell), Python 3 <br />
 🧰 Tools: Git(Hub), Linux, Powershell <br />
 🔥Current Project: Password Cracker (C++/C#) <br />
