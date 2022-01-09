@@ -1,9 +1,10 @@
 # About Me
 Hi, I'm Ethan Cox and I'm an honors student at student at High Point University (sophomore) studying computer science with a concentration in cybersecurity.
 
-# Cybersecurity and Programming
-I primarily program in C++, C#, and Powershell. I enjoy programming a great deal and I spent a lot of time on
-deepening my knowledge of C++/C# and programming in general. I have an interest in high-performance programming and software engineering, as well as devops. <br />
+- Languages: C++, .NET (C# and Powershell), Python 3 
+-
+-
+
 
 # Profile Statistics 
 
