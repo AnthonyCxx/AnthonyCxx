@@ -1,8 +1,7 @@
 # About Me
 Hi, I'm Ethan Cox and I'm an honors student at student at High Point University (sophomore) studying computer science with a concentration in cybersecurity.
 
-:anchor: Languages: C++, .NET (C# and Powershell), Python 3 <br />
--
+⚓ Languages: C++, .NET (C# and Powershell), Python 3 <br />
 🔥Current Project: Password Cracker (C++/C#)
 
 
