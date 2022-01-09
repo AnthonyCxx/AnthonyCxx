@@ -13,7 +13,8 @@ deepening my knowledge of C++/C# and programming in general. I have an interest 
 | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EthanC2&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EthanC2)](https://github.com/anuraghazra/github-readme-stats) |
 -->
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EthanC2&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EthanC2&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats) <br />
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EthanC2)](https://github.com/anuraghazra/github-readme-stats)
 
 # Project Details and Contact
