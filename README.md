@@ -12,6 +12,8 @@ If you have any questions about my projects, please contact me at ecox\[at\]high
 
 You can find my LinkedIn [here](https://www.linkedin.com/in/ethan-cox-3b78511b6/). <br />
 
+
+# Profile Statistics 
 | GitHub Stats | Top Languages |
 | ------------ | ------------- | 
 | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EthanC2&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EthanC2)](https://github.com/anuraghazra/github-readme-stats) |
