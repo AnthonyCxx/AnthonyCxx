@@ -1,4 +1,4 @@
-# About Me
+# Profile for Ethan Cox
 Hi, I'm Ethan Cox and I'm an honors student at student at High Point University (sophomore) studying computer science with a concentration in cybersecurity.
 
 
