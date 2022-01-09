@@ -15,7 +15,6 @@
 | GitHub Stats | Top Languages |
 | ------------ | ------------- | 
 | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EthanC2&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EthanC2)](https://github.com/anuraghazra/github-readme-stats) |
--->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EthanC2)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -24,3 +23,4 @@ All my projects are made available to the public through the MIT License.
 If you have any questions about my projects, please contact me at ecox\[at\]highpoint\[dot\]edu
 
 You can find my LinkedIn [here](https://www.linkedin.com/in/ethan-cox-3b78511b6/). <br />
+-->
