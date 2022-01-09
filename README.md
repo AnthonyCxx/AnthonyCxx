@@ -1,12 +1,12 @@
 # Profile for Ethan Cox
-Hi, I'm Ethan Cox and I'm an honors student at student at High Point University (sophomore) studying computer science with a concentration in cybersecurity.
-
-
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EthanC2&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats) <br />
 
+👋 Name: Ethan Cox
+🏫 University: High Point University
 ⚓ Languages: C++, .NET (C# and Powershell), Python 3 <br />
 🧰 Tools: Git(Hub), Linux, Powershell <br />
 🔥Current Project: Password Cracker (C++/C#) <br />
+
 
 
 # Profile Statistics 
