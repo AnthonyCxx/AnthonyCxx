@@ -12,5 +12,4 @@ If you have any questions about my projects, please contact me at ecox\[at\]high
 
 You can find my LinkedIn [here](https://www.linkedin.com/in/ethan-cox-3b78511b6/). <br />
 
-
-[My Stats](https://github-readme-stats.vercel.app/api?username=khuyentran1401&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+https://github-readme-stats.vercel.app/api?username=khuyentran1401&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
