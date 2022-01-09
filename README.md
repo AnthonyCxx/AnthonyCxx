@@ -20,6 +20,7 @@ All my projects are made available to the public through the MIT License.
 If you have any questions about my projects, please contact me at ecox\[at\]highpoint\[dot\]edu
 
 You can find my LinkedIn [here](https://www.linkedin.com/in/ethan-cox-3b78511b6/). <br />
--->
+
 
 ![Visitor Count](https://profile-counter.glitch.me/EthanC2/count.svg)
+-->
