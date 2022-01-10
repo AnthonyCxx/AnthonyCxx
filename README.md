@@ -30,3 +30,6 @@ You can find my LinkedIn [here](https://www.linkedin.com/in/ethan-cox-3b78511b6/
 <code><img height="40" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1534512595400/HkoATH48Q.png?w=400&h=400&fit=crop&crop=entropy&auto=compress"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" src="https://user-images.githubusercontent.com/70488531/148706442-ee061aea-e3ba-4c78-af6b-cf39ab8e6e58.png"></code>
+
+## Contact
+<a href="https://www.linkedin.com/in/ethan-r-cox/"> <img alt="LinkedIn" src="https://1000logos.net/wp-content/uploads/2017/03/Symbol-LinkedIn.jpg" height="40"> </a>
