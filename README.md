@@ -32,4 +32,5 @@ You can find my LinkedIn [here](https://www.linkedin.com/in/ethan-cox-3b78511b6/
 <code><img height="40" src="https://user-images.githubusercontent.com/70488531/148706442-ee061aea-e3ba-4c78-af6b-cf39ab8e6e58.png"></code>
 
 ## Contact
-<a href="https://www.linkedin.com/in/ethan-r-cox/"> <img alt="LinkedIn" src="https://1000logos.net/wp-content/uploads/2017/03/Symbol-LinkedIn.jpg" height="40"> </a>
+<a href="https://www.linkedin.com/in/ethan-r-cox/"> <img alt="LinkedIn" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG13.png" height="40"> </a>
+<a href="https://my.indeed.com/p/ethanc-kmww4yy"> <img alt="Indeed" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG13.png" height="40"> </a>
