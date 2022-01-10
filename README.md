@@ -33,4 +33,4 @@ You can find my LinkedIn [here](https://www.linkedin.com/in/ethan-cox-3b78511b6/
 
 ## Contact
 <a href="https://www.linkedin.com/in/ethan-r-cox/"> <img alt="LinkedIn" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG13.png" height="40"> </a>
-<a href="https://my.indeed.com/p/ethanc-kmww4yy"> <img alt="Indeed" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG13.png" height="40"> </a>
+<a href="https://my.indeed.com/p/ethanc-kmww4yy"> <img alt="Indeed" src="https://user-images.githubusercontent.com/70488531/148706685-9275d170-e4a6-499b-9544-101b42ff6460.png" height="40"> </a>
