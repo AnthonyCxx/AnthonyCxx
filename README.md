@@ -4,7 +4,7 @@
 📜 Major/Minor: Computer Science (cybersecurity concentration) and Mandarin Chinese <br />
 ⚓ Languages: C++, .NET (C# and Powershell), Python 3 <br />
 🧰 Tools: Git(Hub), Linux, Powershell <br />
-🔥Current Project: Truth table generator using [ANTLR](https://www.antlr.org/) <br />
+🔥Current Project: Graphing library in C# <br />
 📧 [ACM Business Card](https://services.acm.org/public/vcard/vcard.cfm?handle=ethancox) <br />
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EthanC2&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats) <br />
