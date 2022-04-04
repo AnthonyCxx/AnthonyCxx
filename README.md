@@ -2,7 +2,7 @@
 👋 Name: Ethan Cox <br />
 🏫 University: High Point University <br />
 📜 Major/Minor: Computer Science (cybersecurity concentration) and Mandarin Chinese <br />
-⚓ Languages: C++, .NET (C# and Powershell), Python 3 <br />
+⚓ Languages: C++, C#, Python 3 <br />
 🧰 Tools: Git(Hub), Linux, Powershell <br />
 🔥Current Project: Graphing library in C# <br />
 📧 [ACM Business Card](https://services.acm.org/public/vcard/vcard.cfm?handle=ethancox) <br />
