@@ -1,7 +1,7 @@
 # Ethan Cox's GitHub Profile
 👋 Name: Ethan Cox <br />
 🏫 University: High Point University <br />
-📜 Major/Minor: Computer Science (cybersecurity concentration) and Mandarin Chinese <br />
+📜 Major/Minor: Computer Science & Cybersecurity <br />
 ⚓ Languages: C++, C#, Rust, Python 3, JavaScript, TypeScript <br />
 🧰 Tools: Git(Hub), Bash, Powershell <br />
 🔥Current Project: reworking competitive programming setup <br />
