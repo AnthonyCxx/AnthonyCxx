@@ -2,7 +2,7 @@
 👋 Name: Ethan Cox <br />
 🏫 University: High Point University <br />
 📜 Major/Minor: Computer Science & Cybersecurity <br />
-⚓ Languages: C++, C#, Rust, Python 3, JavaScript, TypeScript <br />
+⚓ Languages: C, C++, C#, Rust, Python 3, TypeScript <br />
 🧰 Tools: Git(Hub), Bash, Powershell <br />
 🔥Current Project: extending and maintaining Rust's leetspeak library :D <br />
 📧 [ACM Business Card](https://services.acm.org/public/vcard/vcard.cfm?handle=ethancox) <br />
