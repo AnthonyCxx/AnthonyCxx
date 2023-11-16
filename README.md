@@ -1,5 +1,5 @@
-# Ethan Cox's GitHub Profile
-👋 Name: Ethan Cox <br />
+# Anthony Cox's GitHub Profile
+👋 Name: Anthony Cox <br />
 🏫 University: High Point University <br />
 📜 Major/Minor: Computer Science & Cybersecurity <br />
 ⚓ Languages: C, C++, Python 3 <br />
