@@ -1,7 +1,6 @@
-# Anthony Cox's GitHub Profile
+# Anthony Cox's Repositories and Digital Portfolio
 👋 Name: Anthony Cox <br />
 🏫 Education: Senior at High Point University <br />
 📜 Major/Minor: Computer Science & Cybersecurity <br />
-⚓ Languages: C, C++, Python 3 <br />
-🔥 Current Project: Writing high-performance C/C++ programs with OpenMP, OpenMPI, and CUDA  <br />
+⚓ Favoriate Languages: C++, C#, Python 3 <br />
 📧 [ACM Business Card](https://services.acm.org/public/vcard/vcard.cfm?handle=ethancox) <br />
