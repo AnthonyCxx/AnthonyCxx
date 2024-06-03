@@ -33,5 +33,5 @@ and make the most of their retirement. In his free time, he enjoys cooking, maki
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnthonyCxx)
 
 # Contact Me
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ethan-r-cox/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-r-cox/)
 [![Proton Mail](https://img.shields.io/badge/Proton%20Mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=fff)]((mailto:anthonycxx@protonmail.com))
