@@ -1,5 +1,5 @@
 # Anthony Cox - Software Engineer & Cybersecurity Specialist
-With half a decade of experience, Anthony delivers effective, secure software solutions using Agile methodology.
+With half a decade of experience, Anthony delivers secure, effective software solutions using Agile methodology.
 As a software engineer at Principal Financial Group<sup>&#174;</sup>, he empowers people to secure their financial futures
 and make the most of their retirement. In his free time, he enjoys cooking, making music, and retro video games.
 
