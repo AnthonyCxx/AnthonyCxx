@@ -1,4 +1,4 @@
-# Anthony Cox - Software Engineer & Cybersecurity Specialist
+# Anthony Cox - Software & Cybersecurity Engineer
 With half a decade of programming experience, Anthony delivers secure, effective software solutions using Agile methodology.
 As a software engineer at Principal Financial Group<sup>&#174;</sup>, he empowers people to secure their financial futures
 and make the most of their retirement. In his free time, he enjoys cooking, making music, and retro video games.
@@ -35,5 +35,3 @@ and make the most of their retirement. In his free time, he enjoys cooking, maki
 # Contact Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-r-cox/)
 [![Proton Mail](https://img.shields.io/badge/Proton%20Mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=fff)](mailto:anthonycxx@protonmail.com)
-
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4080285" style='border:none;'></iframe>
